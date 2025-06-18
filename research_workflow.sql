@@ -1,6 +1,6 @@
 
-CREATE DATABASE IF NOT EXISTS research_repository;
-USE research_repository;
+CREATE DATABASE IF NOT EXISTS research_workflow;
+USE research_workflow;
 
 
 -- User Management

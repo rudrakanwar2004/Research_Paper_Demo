@@ -175,10 +175,8 @@ WHERE t.tag_name = 'Artificial Intelligence';
 
 To use this schema:
 
-1. Import `research_repository.sql` into your MySQL server.
+1. Import `research_workflow.sql` into your MySQL server.
 2. Run the queries/procedures directly via MySQL CLI or any client (e.g., MySQL Workbench).
 3. Extend or integrate as needed.
 
 ---
-
-> Built with 💡 to simplify research paper workflow management using just SQL.
